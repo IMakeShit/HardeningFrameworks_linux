@@ -1,1 +1,6 @@
-# HardeningFrameworks_linux
+# Hardening Frameworks
+Hardening Frameworks - это проект где я и мои друзья разрабатывают скрипты для усиления безопасности,анонимности и противодействия криминалистике.Данный репозиторий содержит скрипты для GNU/Linux систем.
+
+# Поддерживащиеся Дистрибутивы и уже реализованное
+
+Linux Mint - Установка kloak,runtime-hardening(также есть вариант твиков от меня а это просто модифицированные твики из runtime hardening с большим количеством дополнительных настроек),hardened-kernel(Из kickSecure),macchanger,дополнительный профилей для AppArmor,anon-apps-config(время в UTC и прочее),твиков из Whonix Gateway,твики для Tor,security-misc(дополнительные настройки для безопасности),защиты от cold-boot attack.Настройка зашифрованного swap раздела,отключение логов ядра,перевода логов в оперативную память,libhardened_malloc(из GrapheneOS).
